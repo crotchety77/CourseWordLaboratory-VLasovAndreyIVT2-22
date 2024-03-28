@@ -14,12 +14,37 @@ namespace CourseWorkLaboratory_VLasovAndreyIVT2_22 {
             InitializeComponent();
         }
 
-        private void Авторизация_Click(object sender, EventArgs e) {
 
+
+        // ----------------
+        // Кнопка закрытия
+        private void exitButton_Click_1(object sender, EventArgs e) {
+            this.Close();
         }
 
-        private void label1_Click(object sender, EventArgs e) {
-
+        private void exitButton_MouseEnter(object sender, EventArgs e) {
+            exitButton.BackColor = Color.Tomato; // Можете выбрать любой другой цвет
         }
+
+        private void exitButton_MouseLeave(object sender, EventArgs e) {
+            exitButton.BackColor = Color.Black; // Можете выбрать любой другой цвет
+        }
+        // ----------------
+
+        // ----------------
+        // Передвижение окна с зажатой мышью
+        Point lastPoint;
+        private void panel1_MouseMove(object sender, MouseEventArgs e) {
+            if (e.Button == MouseButtons.Left) {
+                this.Left += e.X - lastPoint.X;
+                this.Top += e.Y - lastPoint.Y;
+            }
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e) {
+            lastPoint = new Point(e.X, e.Y);
+        }
+        // ----------------
+
     }
 }

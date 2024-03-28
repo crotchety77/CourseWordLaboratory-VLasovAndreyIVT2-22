@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorizationForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.Designer.cs",
-              "RelativeDocumentMoniker": "AuthorizationForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.Designer.cs",
-              "RelativeToolTip": "AuthorizationForm.Designer.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwGgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:56:26.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorizationForm.cs",
-              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
-              "RelativeDocumentMoniker": "AuthorizationForm.cs",
-              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
-              "RelativeToolTip": "AuthorizationForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:56:20.676Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -65,18 +39,46 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T14:50:50.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "AuthorizationForm.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
+              "RelativeToolTip": "AuthorizationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:56:20.676Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:11:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
               "RelativeDocumentMoniker": "AuthorizationForm.cs",
               "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:48:15.806Z",
+              "WhenOpened": "2024-03-28T18:04:55.792Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
