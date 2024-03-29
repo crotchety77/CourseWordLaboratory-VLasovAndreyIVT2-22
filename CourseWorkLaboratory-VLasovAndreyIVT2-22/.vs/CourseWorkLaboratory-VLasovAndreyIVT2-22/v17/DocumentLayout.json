@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\accesssqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:accesssqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|c:\\users\\foxi8\\downloads\\coursework\\courseworklaboratory-vlasovandreyivt2-22\\courseworklaboratory-vlasovandreyivt2-22\\authorizationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840215E3-6A05-45FA-8EAF-D028C5AFDCDC}|CourseWorkLaboratory-VLasovAndreyIVT2-22.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:50:50.538Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AuthorizationForm.cs",
               "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
               "RelativeDocumentMoniker": "AuthorizationForm.cs",
@@ -59,19 +61,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\DataBase.cs",
-              "RelativeDocumentMoniker": "DataBase.cs",
-              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\DataBase.cs",
-              "RelativeToolTip": "DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Title": "AccessSqliteData.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AccessSqliteData.cs",
+              "RelativeDocumentMoniker": "AccessSqliteData.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AccessSqliteData.cs",
+              "RelativeToolTip": "AccessSqliteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T18:11:17.165Z",
+              "WhenOpened": "2024-03-29T08:27:43.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:23:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:20:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizationForm.resx",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.resx",
+              "RelativeDocumentMoniker": "AuthorizationForm.resx",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.resx",
+              "RelativeToolTip": "AuthorizationForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-29T08:14:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:14:27.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\obj\\project.nuget.cache",
+              "RelativeToolTip": "obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-03-29T08:13:15.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\Foxi8\\Downloads\\CourseWork\\CourseWorkLaboratory-VlasovAndreyIVT2-22\\CourseWorkLaboratory-VLasovAndreyIVT2-22\\AuthorizationForm.cs",
               "RelativeDocumentMoniker": "AuthorizationForm.cs",
